@@ -37,7 +37,6 @@ diffbot.frontpage({uri: 'http://prettyspace.tumblr.com/'}, function(err, respons
 });
 ```
 
-
 ## Todo
 
 * finish this readme file
@@ -49,3 +48,4 @@ diffbot.frontpage({uri: 'http://prettyspace.tumblr.com/'}, function(err, respons
 * run those tests
 * run away from bears
 * do first release
+
